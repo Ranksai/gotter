@@ -1,6 +1,7 @@
 golang で Twitterライクなサービス
 
-- server_test
-magrain テストapi  
-response.go  をgo run  
-http://localhost:8080/api/clock を叩くと時間取得(json)
+- eureka インターンで作成した Twitter クローンの web アプリケーションです。@Ranksai @magrain の 2 名で作成しました。
+
+- やったこと
+   - @Ranksai: login logout register profile(read) Tweet(create update delete)
+   - @magrain: Tweet(read)
